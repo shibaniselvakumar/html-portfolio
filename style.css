@@ -1,0 +1,43 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+
+html{
+    background-color: rgb(7, 234, 234);
+    text-align: center;
+
+h2{
+    color: white;
+    font-style: italic;
+}
+
+h1{
+    background-color:white;
+    color: plum;
+    font-style: italic;
+}
+
+h3{
+    font-style: italic;
+    color:rgb(234, 60, 100)
+}
+
+footer{
+    color:black;
+    background-color: white;
+    font-style: italic;
+}
+
+.x{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
